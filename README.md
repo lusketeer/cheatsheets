@@ -1,4 +1,4 @@
-[rails][./rails]
+[rails]:[./rails]
 
 # Cheat$heets
 
